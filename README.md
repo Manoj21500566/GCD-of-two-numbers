@@ -19,6 +19,7 @@ Program to find the gcd of two number using function.
 Developed by: Manoj M
 RegisterNumber:21500566  
 /*
+
 def gcd():
     n1 = int(input())
     n2 = int(input())
